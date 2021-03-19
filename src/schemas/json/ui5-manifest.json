@@ -564,7 +564,7 @@
                 },
                 "viewPath": {
                   "type": "string",
-                  "description": "where the view is located in the app (Namespace synthax e.g. 'myapp.views'"
+                  "description": "where the view is located in the app (Namespace syntax e.g. 'myapp.views'"
                 },
                 "controlId": {
                   "type": "string",

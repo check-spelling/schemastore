@@ -2103,7 +2103,7 @@
     <member name="M:System.Web.WebPages.Html.HtmlHelper.TextArea(System.String,System.String)">
       <summary>Returns an HTML multi-line text input (text area) control that has the specified name and value.</summary>
       <returns>The HTML markup that represents the text area control.</returns>
-      <param name="name">The value to assign to the name attribute of the HTML textrarea element.</param>
+      <param name="name">The value to assign to the name attribute of the HTML textarea element.</param>
       <param name="value">The text to display.</param>
       <exception cref="T:System.ArgumentException">
         <paramref name="name" /> is null or empty.</exception>

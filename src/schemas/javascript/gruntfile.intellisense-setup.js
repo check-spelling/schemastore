@@ -400,7 +400,7 @@
     };
 
     var _config = {
-        // Gets the entire configuration object or a sinble property specified by name.
+        // Gets the entire configuration object or a single property specified by name.
         get: function (prop) { return {}; },
 
         // Sets a property value.

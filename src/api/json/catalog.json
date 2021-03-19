@@ -709,7 +709,7 @@
     },
     {
       "name": "docfx.json",
-      "description": "A JSON schema for DocFx configuraton files",
+      "description": "A JSON schema for DocFx configuration files",
       "fileMatch": [
         "docfx.json"
       ],

@@ -579,7 +579,7 @@
           "type": "boolean"
         },
         "supportStopInstance": {
-          "description": "If adapter supports signal stopInstance (messagebox required). The signal will be sent before stop to the adapter. (used if the problems occured with SIGTERM)",
+          "description": "If adapter supports signal stopInstance (messagebox required). The signal will be sent before stop to the adapter. (used if the problems occurred with SIGTERM)",
           "type": "boolean"
         },
         "wakeup": {

@@ -960,7 +960,7 @@
             ///   <returns type="Stream" />
             /// </signature>
             /// <signature>
-            ///   <param name="fn(path)" type="Funtion">A custom function.</param>
+            ///   <param name="fn(path)" type="Function">A custom function.</param>
             ///   <returns type="Stream" />
             /// </signature>
         };

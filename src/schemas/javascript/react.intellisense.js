@@ -106,7 +106,7 @@
 
         /**
          * Create and return a new ReactElement of the given type.
-         * @param {string/ReactCompenent} type  - The type argument can be either an html tag name string (eg. 'div', 'span', etc), or a ReactComponent class that was created with React.createClass.
+         * @param {string/ReactComponent} type  - The type argument can be either an html tag name string (eg. 'div', 'span', etc), or a ReactComponent class that was created with React.createClass.
          * @param {object} [props]
          * @param {children...} [children...]
          * @returns {ReactElement}

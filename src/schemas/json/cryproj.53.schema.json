@@ -2215,7 +2215,7 @@
 				"r_ShadersPrecacheAllLights",
 				"r_ShadersRemoteCompiler",
 				"r_ShadersSubmitRequestline",
-				"r_ShadowBluriness",
+				"r_ShadowBlurriness",
 				"r_ShadowCastingLightsMaxCount",
 				"r_ShadowGen",
 				"r_ShadowGenDepthClip",

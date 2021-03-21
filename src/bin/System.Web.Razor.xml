@@ -4299,7 +4299,7 @@
       <param name="previous">The previous language symbol type.</param>
     </member>
     <member name="M:System.Web.Razor.Tokenizer.Tokenizer`2.Single(`1)">
-      <summary>This type/member supports the .NET Framework infrastructure and is not intended to be used directly from your code.Uses a single type of symbol.</summary>
+      <summary>This type/member supports the .NET Framework infrastructure and is not intended to be used directly from your code. Uses a single type of symbol.</summary>
       <returns>A single type of symbol.</returns>
       <param name="type">The type of symbol.</param>
     </member>

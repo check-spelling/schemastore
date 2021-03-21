@@ -895,7 +895,7 @@
                 name: "",
                 /// <field name="verbose" type="Boolean">This options will enable verbose output.</field>
                 verbose: "",
-                /// <field name="readDelay" type="Number">Wait for readDealy milliseconds before read file.</field>
+                /// <field name="readDelay" type="Number">Wait for readDelay milliseconds before read file.</field>
                 readDelay: "",
             }
         };

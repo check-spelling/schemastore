@@ -895,7 +895,7 @@
                 name: "",
                 /// <field name="verbose" type="Boolean">This options will enable verbose output.</field>
                 verbose: "",
-                /// <field name="readDelay" type="Number">Wait for readDealy milliseconds before read file.</field>
+                /// <field name="readDelay" type="Number">Wait for readDelay milliseconds before read file.</field>
                 readDelay: "",
             }
         };
@@ -960,7 +960,7 @@
             ///   <returns type="Stream" />
             /// </signature>
             /// <signature>
-            ///   <param name="fn(path)" type="Funtion">A custom function.</param>
+            ///   <param name="fn(path)" type="Function">A custom function.</param>
             ///   <returns type="Stream" />
             /// </signature>
         };

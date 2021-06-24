@@ -82,7 +82,7 @@
   </CssProperty>
 
   <CssProperty name="initial-letter-align" version="3.0" browsers="none" restriction="enum" syntax="body { $(name): ideographic; }" description="Specifies the alignment points used to size and position an initial letter." standard-reference="http://www.w3.org/TR/css-inline/#propdef-initial-letter-align">
-    <entry value="aplabetic" />
+    <entry value="alphabetic" />
     <entry value="ideagraphic" />
     <entry value="hebrew" />
     <entry value="hanging" />
